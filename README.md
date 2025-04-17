@@ -21,8 +21,8 @@
 |--------------------------------------|------------------------------------------------------------------|---------------------------------|
 | 🎯 Suivi des contrats fibre Celtiis | Web app avec stats et filtres dynamiques pour suivre les clients | `Streamlit`, `Pandas`            |
 | 🛻 Détection de voitures            | Classification de SUV à partir d'images (plus de 150 labels)     | `CNN`, `Python`, `OpenCV`        |
-| 🧮 Dashboard Power BI               | Analyse dynamique des contrats et KPI | `Power BI`, `Excel`      |
-| 🎓 Hackathon AI4CKD                 | Prédiction des stades de la maladie rénale chronique             | `Excel`, `Pédagogie`, `Finance`  |
+| 🧮 Dashboard Power BI               | Analyse dynamique des contrats et KPI                            | `Power BI`, `Excel`              |
+| 🎓 Hackathon AI4CKD                 | Prédiction des stades de la maladie rénale chronique             | `Python`, `Canva`, `React`, `Docker`|
 
 ---
 
