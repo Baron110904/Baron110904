@@ -10,7 +10,7 @@
 ## 🔧 Ce que je fais
 - 📷 **Vision par ordinateur** : détection d’objets, classification d’images, projets avec CNN et Streamlit
 - 📊 **Analyse de données** : Power BI, Google Data Analytics, Python (Pandas, Matplotlib, etc.)
-- 💻 **Développement web** : React, Streamlit, HTML/CSS, intégration GitHub Pages
+- 💻 **Développement web** : ReactJs, NodeJs, HTML/CSS, intégration GitHub Pages
 - 🎯 **Optimisation & Machine Learning** : scikit-learn, KNN, normalisation, validation croisée
 - 📦 **Gestion de projets techniques** : organisation propre (pas encore Git... mais ça vient 😄)
 
